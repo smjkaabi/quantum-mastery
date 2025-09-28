@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+numpy
+scipy
+matplotlib
+pandas
+qiskit
+qutip
+seaborn
+sympy
+networkx
+ipywidgets
