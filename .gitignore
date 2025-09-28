@@ -1,0 +1,22 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs
+outputs/
+*.png
+*.pdf
+*.mp4
+
+# Data (optional; keep small CSVs if needed)
+data/
