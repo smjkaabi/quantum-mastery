@@ -27,4 +27,4 @@ jupyter lab
 2) UAE alignment (TII/KU priorities: QKD, PQC, sensing).  
 3) Reproducibility (anyone can clone, run, and verify).
 
-> Contact: info@uvlumn.com • Abu Dhabi, UAE
+> Contact: smjkaabi.2000@hotmail.com • Abu Dhabi, UAE
